@@ -67,8 +67,3 @@ The provided Scala code performs the following tasks:
    - The output will be saved to HDFS in the directory specified by `output`:
      - Example: `hdfs://localhost:9000/reuters/JaccardIndex`
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-

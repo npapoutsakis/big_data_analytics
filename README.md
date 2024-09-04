@@ -30,6 +30,10 @@ The provided Scala code performs the following tasks:
      Jaccard Index = \frac{\text{Number of documents containing both term and category}}{\text{Number of documents containing either term or category}}
      \]
 
+\[
+Jaccard\ Index = \frac{\text{Number of documents containing both term and category}}{\text{Number of documents containing either term or category}}
+\]
+
 4. **Output:**
    - The results are saved back to Hadoop HDFS in a specified directory.
 

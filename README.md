@@ -27,7 +27,7 @@ The provided Scala code performs the following tasks:
 3. **Calculate Jaccard Index:**
    - The Jaccard Index is computed for each term-category pair using the formula:
 
-     Jaccard Index = \text{Number of documents containing both term and category}}{Number of documents containing either term or category}
+        Jaccard Index = ((Number of documents containing both term and category)/(Number of documents containing either term or category))
   
 
 4. **Output:**

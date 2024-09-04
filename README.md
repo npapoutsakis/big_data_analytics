@@ -26,13 +26,9 @@ The provided Scala code performs the following tasks:
 
 3. **Calculate Jaccard Index:**
    - The Jaccard Index is computed for each term-category pair using the formula:
-     \[
-     Jaccard Index = \frac{\text{Number of documents containing both term and category}}{\text{Number of documents containing either term or category}}
-     \]
 
-\[
-Jaccard\ Index = \frac{\text{Number of documents containing both term and category}}{\text{Number of documents containing either term or category}}
-\]
+     Jaccard Index = \text{Number of documents containing both term and category}}{Number of documents containing either term or category}
+  
 
 4. **Output:**
    - The results are saved back to Hadoop HDFS in a specified directory.
